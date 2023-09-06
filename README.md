@@ -28,15 +28,15 @@ To get started with Chatterease, follow these simple steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](client/public/logo192.png)
 
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Deployed Links
 
-- [Chatterease Web App](https://www.chatterease.com)
-- [iOS App on the App Store](https://itunes.apple.com/app/chatterease)
-- [Android App on Google Play](https://play.google.com/store/apps/details?id=com.chatterease)
+- [Chatterease Web App](https://chatterease.netlify.app/)
+- [Backend deployed link](https://chatter-ease.onrender.com)
+
 
 ## License
 
