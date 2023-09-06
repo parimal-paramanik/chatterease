@@ -26,13 +26,17 @@ To get started with Chatterease, follow these simple steps:
 
 5. **Enjoy Your Conversations:** Engage in real-time conversations, share files, and make the most of Chatterease's features.
 
-## Support
+## Screenshots
 
-If you encounter any issues or have questions about Chatterease, our support team is here to help. Feel free to reach out to us via email at [support@chatterease.com](mailto:support@chatterease.com) or visit our [FAQ](https://www.chatterease.com/faq) page for common inquiries.
+![Screenshot 1](screenshots/screenshot1.png)
 
-## Feedback
+![Screenshot 2](screenshots/screenshot2.png)
 
-We value your feedback! If you have suggestions, ideas, or encounter any bugs while using Chatterease, please let us know by sending an email to [feedback@chatterease.com](mailto:feedback@chatterease.com). We appreciate your input as we continuously improve our platform.
+## Deployed Links
+
+- [Chatterease Web App](https://www.chatterease.com)
+- [iOS App on the App Store](https://itunes.apple.com/app/chatterease)
+- [Android App on Google Play](https://play.google.com/store/apps/details?id=com.chatterease)
 
 ## License
 
