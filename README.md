@@ -1,53 +1,47 @@
-# TaskMaster - Your Kanban Task Management App
+# Chatterease - Online Chat and File Sharing Platform
 
-Welcome to TaskMaster, your Kanban-style task management solution! TaskMaster simplifies task organization with drag-and-drop functionality, user authentication, favorites, and easy task editing and deletion. Whether you're working solo or collaborating with a team, TaskMaster is here to streamline your workflow.
+Welcome to Chatterease, your go-to online communication platform! Chatterease offers real-time chatting and convenient PDF and image sharing functionalities to enhance your communication experience. Whether you're collaborating with colleagues, connecting with friends, or sharing important documents, Chatterease has you covered.
 
 ## Features
 
-- **User Authentication:** Sign up and securely log in to your TaskMaster account.
-- **Kanban Boards:** Create, customize, and manage multiple lists for organized task tracking.
-- **Drag-and-Drop:** Effortlessly move tasks between sections for real-time status updates.
-- **Favorites:** Highlight essential tasks for quick access.
-- **Task Editing:** Update task details like titles and descriptions with ease.
-- **Task Deletion:** Remove tasks when they're completed or no longer needed.
+- **Real-Time Chatting:** Enjoy seamless, instant communication with friends, family, or colleagues. Chatterease provides a user-friendly chat interface that ensures smooth conversations.
+
+- **PDF and Image Sharing:** Easily share and receive PDF documents and images within the chat interface. This feature simplifies file sharing and enhances collaboration.
+
+- **Secure and Private:** Chatterease prioritizes your privacy and security. Rest assured that your data and conversations are protected.
+
+- **User-Friendly Design:** Our platform is designed with simplicity in mind. It's intuitive and easy to use, making it accessible for users of all levels of tech-savviness.
 
 ## Getting Started
 
-To start using TaskMaster, follow these straightforward steps:
+To get started with Chatterease, follow these simple steps:
 
-1. **Clone Repository:** Clone this repository to your local machine.
+1. **Sign Up:** Create your Chatterease account by visiting our website and completing the registration process.
 
-2. **Install Dependencies:** Navigate to the project directory and run `npm install` to install the required dependencies.
+2. **Log In:** Once you have an account, log in to access the chat and file-sharing features.
 
-3. **Start the App:** Launch the development server with `npm start`.
+3. **Start Chatting:** Begin conversations with friends or colleagues by adding them as contacts or joining existing groups.
 
-4. **Access the App:** Open your web browser and go to `http://localhost:3000` to access the app locally.
+4. **Share Files:** To share PDFs or images, simply click on the file-sharing icon within the chat window and select the file you wish to send.
 
-## Usage
-
-1. **Sign Up / Log In:** Create an account or log in securely to access your tasks.
-
-2. **Create Lists:** Start by creating lists on the Kanban board.
-
-3. **Add Tasks:** Populate your lists with tasks.
-
-4. **Task Management:** Drag tasks between sections to update their status, mark important tasks as favorites, edit task details, or delete completed tasks.
+5. **Enjoy Your Conversations:** Engage in real-time conversations, share files, and make the most of Chatterease's features.
 
 ## Screenshots
 
-![Screenshot 1](insert_screenshot_url_1_here)
-*Description of Screenshot 1.*
-
-![Screenshot 2](insert_screenshot_url_2_here)
-*Description of Screenshot 2.*
+![Screenshot 1](Screenshots/Screenshot%20_1.png)
+![Screenshot 2](Screenshots/Screenshot%20_2.png)
+![Screenshot 3](Screenshots/Screenshot%20_3.png)
+![Screenshot 4](Screenshots/Screenshot%20_4.png)
+![Screenshot 5](Screenshots/Screenshot%20_5.png)
 
 ## Deployed Links
 
-- [TaskMaster Demo](insert_demo_link_here)
-- [TaskMaster Backend](insert_backend_deployed_link_here)
+- [Chatterease Web App](https://chatterease.netlify.app/)
+- [Backend deployed link](https://chatter-ease.onrender.com)
+
 
 ## License
 
-TaskMaster is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+Chatterease is licensed under the [MIT License](LICENSE.md).
 
-Thank you for choosing TaskMaster for your task management needs. We hope this application enhances your productivity and organization.
+Thank you for choosing Chatterease for your online chatting and file-sharing needs. We hope you enjoy your experience and find our platform valuable for both personal and professional communication.
